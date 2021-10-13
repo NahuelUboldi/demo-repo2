@@ -32,3 +32,6 @@ add this two lines to the script object inside the package.json file:
 ## go to the site
 * github -> settings -> github pages
 
+#CREATE A REACT REDUX APP
+* npx create-creact-app mi-app-name
+* npm install redux react-redux
